@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.3" orientation="orthogonal" renderorder="right-down" width="25" height="20" tilewidth="128" tileheight="128" infinite="0" backgroundcolor="#58e4ff" nextlayerid="13" nextobjectid="1">
+ <tileset firstgid="1" name="my_tiles" tilewidth="444" tileheight="261" tilecount="87" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="50" height="92" source="level_art/test_cake_art/spr_arrow_0.png"/>
+  </tile>
+  <tile id="1">
+   <image width="50" height="92" source="level_art/test_cake_art/spr_arrow_1.png"/>
+  </tile>
+  <tile id="2">
+   <image width="192" height="192" source="level_art/test_cake_art/spr_bouncer_0.png"/>
+  </tile>
+  <tile id="3">
+   <image width="192" height="192" source="level_art/test_cake_art/spr_bouncer_1.png"/>
+  </tile>
+  <tile id="4">
+   <image width="192" height="192" source="level_art/test_cake_art/spr_bouncer_2.png"/>
+  </tile>
+  <tile id="5">
+   <image width="192" height="192" source="level_art/test_cake_art/spr_bouncer_3.png"/>
+  </tile>
+  <tile id="6">
+   <image width="100" height="80" source="level_art/test_cake_art/spr_button_border_0.png"/>
+  </tile>
+  <tile id="7">
+   <image width="100" height="80" source="level_art/test_cake_art/spr_button_border_1.png"/>
+  </tile>
+  <tile id="8">
+   <image width="100" height="80" source="level_art/test_cake_art/spr_button_border_2.png"/>
+  </tile>
+  <tile id="9">
+   <image width="100" height="80" source="level_art/test_cake_art/spr_button_border_3.png"/>
+  </tile>
+  <tile id="10">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_0.png"/>
+  </tile>
+  <tile id="11">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_1.png"/>
+  </tile>
+  <tile id="12">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_2.png"/>
+  </tile>
+  <tile id="13">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_3.png"/>
+  </tile>
+  <tile id="14">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_4.png"/>
+  </tile>
+  <tile id="15">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_5.png"/>
+  </tile>
+  <tile id="16">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_6.png"/>
+  </tile>
+  <tile id="17">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_7.png"/>
+  </tile>
+  <tile id="18">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_8.png"/>
+  </tile>
+  <tile id="19">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_9.png"/>
+  </tile>
+  <tile id="20">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_10.png"/>
+  </tile>
+  <tile id="21">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_11.png"/>
+  </tile>
+  <tile id="22">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_12.png"/>
+  </tile>
+  <tile id="23">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_13.png"/>
+  </tile>
+  <tile id="24">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_14.png"/>
+  </tile>
+  <tile id="25">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_15.png"/>
+  </tile>
+  <tile id="26">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_16.png"/>
+  </tile>
+  <tile id="27">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_17.png"/>
+  </tile>
+  <tile id="28">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_18.png"/>
+  </tile>
+  <tile id="29">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_19.png"/>
+  </tile>
+  <tile id="30">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_20.png"/>
+  </tile>
+  <tile id="31">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_21.png"/>
+  </tile>
+  <tile id="32">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_22.png"/>
+  </tile>
+  <tile id="33">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_23.png"/>
+  </tile>
+  <tile id="34">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_24.png"/>
+  </tile>
+  <tile id="35">
+   <image width="70" height="55" source="level_art/test_cake_art/spr_button_pictogram_25.png"/>
+  </tile>
+  <tile id="36">
+   <image width="128" height="128" source="level_art/test_cake_art/spr_crate_0.png"/>
+  </tile>
+  <tile id="37">
+   <image width="192" height="128" source="level_art/test_cake_art/spr_goal_0.png"/>
+  </tile>
+  <tile id="38">
+   <image width="100" height="167" source="level_art/test_cake_art/spr_hand_0.png"/>
+  </tile>
+  <tile id="39">
+   <image width="128" height="128" source="level_art/test_cake_art/spr_ice_0.png"/>
+  </tile>
+  <tile id="40">
+   <image width="256" height="256" source="level_art/test_cake_art/spr_ice_break_0.png"/>
+  </tile>
+  <tile id="41">
+   <image width="256" height="256" source="level_art/test_cake_art/spr_ice_break_1.png"/>
+  </tile>
+  <tile id="42">
+   <image width="256" height="256" source="level_art/test_cake_art/spr_ice_break_2.png"/>
+  </tile>
+  <tile id="43">
+   <image width="256" height="256" source="level_art/test_cake_art/spr_ice_break_3.png"/>
+  </tile>
+  <tile id="44">
+   <image width="256" height="256" source="level_art/test_cake_art/spr_ice_break_4.png"/>
+  </tile>
+  <tile id="45">
+   <image width="128" height="128" source="level_art/test_cake_art/spr_level_badge_0.png"/>
+  </tile>
+  <tile id="46">
+   <image width="128" height="128" source="level_art/test_cake_art/spr_level_badge_1.png"/>
+  </tile>
+  <tile id="47">
+   <image width="128" height="128" source="level_art/test_cake_art/spr_level_badge_2.png"/>
+  </tile>
+  <tile id="48">
+   <image width="128" height="128" source="level_art/test_cake_art/spr_level_badge_3.png"/>
+  </tile>
+  <tile id="49">
+   <image width="128" height="128" source="level_art/test_cake_art/spr_level_badge_4.png"/>
+  </tile>
+  <tile id="50">
+   <image width="128" height="128" source="level_art/test_cake_art/spr_level_badge_5.png"/>
+  </tile>
+  <tile id="51">
+   <image width="149" height="98" source="level_art/test_cake_art/spr_level_clouds_0.png"/>
+  </tile>
+  <tile id="52">
+   <image width="149" height="98" source="level_art/test_cake_art/spr_level_clouds_1.png"/>
+  </tile>
+  <tile id="53">
+   <image width="149" height="98" source="level_art/test_cake_art/spr_level_clouds_2.png"/>
+  </tile>
+  <tile id="54">
+   <image width="361" height="220" source="level_art/test_cake_art/spr_level_end_stars_0.png"/>
+  </tile>
+  <tile id="55">
+   <image width="361" height="220" source="level_art/test_cake_art/spr_level_end_stars_1.png"/>
+  </tile>
+  <tile id="56">
+   <image width="361" height="220" source="level_art/test_cake_art/spr_level_end_stars_2.png"/>
+  </tile>
+  <tile id="57">
+   <image width="361" height="220" source="level_art/test_cake_art/spr_level_end_stars_3.png"/>
+  </tile>
+  <tile id="58">
+   <image width="444" height="261" source="level_art/test_cake_art/spr_levels_list_cloud_1_0.png"/>
+  </tile>
+  <tile id="59">
+   <image width="297" height="179" source="level_art/test_cake_art/spr_levels_list_cloud_2_0.png"/>
+  </tile>
+  <tile id="60">
+   <image width="241" height="150" source="level_art/test_cake_art/spr_levels_list_cloud_3_0.png"/>
+  </tile>
+  <tile id="61">
+   <image width="175" height="115" source="level_art/test_cake_art/spr_levels_list_cloud_4_0.png"/>
+  </tile>
+  <tile id="62">
+   <image width="224" height="200" source="level_art/test_cake_art/spr_play_button_0.png"/>
+  </tile>
+  <tile id="63">
+   <image width="224" height="200" source="level_art/test_cake_art/spr_play_button_1.png"/>
+  </tile>
+  <tile id="64">
+   <image width="128" height="128" source="level_art/test_cake_art/spr_portal_0.png"/>
+  </tile>
+  <tile id="65">
+   <image width="128" height="128" source="level_art/test_cake_art/spr_portal_1.png"/>
+  </tile>
+  <tile id="66">
+   <image width="128" height="128" source="level_art/test_cake_art/spr_portal_2.png"/>
+  </tile>
+  <tile id="67">
+   <image width="128" height="128" source="level_art/test_cake_art/spr_portal_3.png"/>
+  </tile>
+  <tile id="68">
+   <image width="128" height="128" source="level_art/test_cake_art/spr_portal_4.png"/>
+  </tile>
+  <tile id="69">
+   <image width="128" height="128" source="level_art/test_cake_art/spr_portal_5.png"/>
+  </tile>
+  <tile id="70">
+   <image width="128" height="128" source="level_art/test_cake_art/spr_portal_6.png"/>
+  </tile>
+  <tile id="71">
+   <image width="128" height="128" source="level_art/test_cake_art/spr_portal_7.png"/>
+  </tile>
+  <tile id="72">
+   <image width="128" height="128" source="level_art/test_cake_art/spr_star_0.png"/>
+  </tile>
+  <tile id="73">
+   <image width="128" height="128" source="level_art/test_cake_art/spr_star_1.png"/>
+  </tile>
+  <tile id="74">
+   <image width="128" height="128" source="level_art/test_cake_art/spr_star_2.png"/>
+  </tile>
+  <tile id="75">
+   <image width="37" height="26" source="level_art/test_cake_art/spr_stones_decorations_0.png"/>
+  </tile>
+  <tile id="76">
+   <image width="37" height="26" source="level_art/test_cake_art/spr_stones_decorations_1.png"/>
+  </tile>
+  <tile id="77">
+   <image width="37" height="26" source="level_art/test_cake_art/spr_stones_decorations_2.png"/>
+  </tile>
+  <tile id="78">
+   <image width="37" height="26" source="level_art/test_cake_art/spr_stones_decorations_3.png"/>
+  </tile>
+  <tile id="79">
+   <image width="37" height="26" source="level_art/test_cake_art/spr_stones_decorations_4.png"/>
+  </tile>
+  <tile id="80">
+   <image width="37" height="26" source="level_art/test_cake_art/spr_stones_decorations_5.png"/>
+  </tile>
+  <tile id="81">
+   <image width="37" height="26" source="level_art/test_cake_art/spr_stones_decorations_6.png"/>
+  </tile>
+  <tile id="82">
+   <image width="72" height="72" source="level_art/test_cake_art/spr_street_decorations_0.png"/>
+  </tile>
+  <tile id="83">
+   <image width="72" height="72" source="level_art/test_cake_art/spr_street_decorations_1.png"/>
+  </tile>
+  <tile id="84">
+   <image width="72" height="72" source="level_art/test_cake_art/spr_street_decorations_2.png"/>
+  </tile>
+  <tile id="85">
+   <image width="128" height="128" source="level_art/test_cake_art/spr_turn_0.png"/>
+  </tile>
+  <tile id="86">
+   <image width="192" height="128" source="level_art/test_cake_art/spri_cacti_0.png"/>
+  </tile>
+ </tileset>
+ <layer id="2" name="Coins" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh8gB0JE6uGHYvYKBgFo2AUjILhD0bLfwgAABSaAGM=
+  </data>
+ </layer>
+ <layer id="3" name="Background" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAfsKOjXaOAOIArToZCXA0FNw5FMBquo2AUDE0AAL+yATc=
+  </data>
+ </layer>
+ <layer id="5" name="Don't Touch" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBi6IHygHTAKRsEooAkYzdujYBSQDgCH0QCv
+  </data>
+ </layer>
+ <layer id="10" name="Foreground" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAPzAjIjwLSwWiY4gaDKWzQ3TKY3DYKhjYYimlpKLp5pAEA6eoBew==
+  </data>
+ </layer>
+ <layer id="12" name="Platforms" width="25" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFtALWVFJDirqRBCgNk5EcpiPB79j8OBL8jQ+MdP/DwECEA6X1ATH6AbZXAwA=
+  </data>
+ </layer>
+</map>
